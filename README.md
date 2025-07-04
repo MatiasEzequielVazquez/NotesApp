@@ -36,7 +36,7 @@ spa-notes-manager/
 │   └── App.jsx
 ├── setup.sh         # One-command setup script
 └── README.md
-
+```
 ---
 
 ## How to Run the App

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Dev\\Challenge - Ensolvers\\backend\\backend.csproj": {}
+    "E:\\Dev\\NotesApp\\backend\\backend.csproj": {}
   },
   "projects": {
-    "E:\\Dev\\Challenge - Ensolvers\\backend\\backend.csproj": {
+    "E:\\Dev\\NotesApp\\backend\\backend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Dev\\Challenge - Ensolvers\\backend\\backend.csproj",
+        "projectUniqueName": "E:\\Dev\\NotesApp\\backend\\backend.csproj",
         "projectName": "backend",
-        "projectPath": "E:\\Dev\\Challenge - Ensolvers\\backend\\backend.csproj",
+        "projectPath": "E:\\Dev\\NotesApp\\backend\\backend.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "E:\\Dev\\Challenge - Ensolvers\\backend\\obj\\",
+        "outputPath": "E:\\Dev\\NotesApp\\backend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
